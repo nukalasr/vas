@@ -12,7 +12,7 @@ Run the following command in the root directory of your Node-RED install
 
     npm install node-red-oauth2
 
-    it uses <a href="https://github.com/zetxx/poster.git"> poster</a> node package
+    it uses oauth2 node js package node package
 
 
 Usage
