@@ -1,0 +1,29 @@
+{
+  "name": "node-red-node-oAuth2",
+  "version": "0.0.1",
+  "description": "A Node-RED node for oAuth2 token generator.",
+  "dependencies": {
+    "oAuth2":""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nukalasr/vas/node-red-node-oauth2"
+  },
+  "license": "GPL 3",
+  "keywords": [
+    "node-red",
+    "oauth2 token"
+  ],
+  "node-red": {
+    "nodes": {
+      "oauth2": "node-oauth2.js"
+    }
+  },
+  "author": {
+    "name": "Sreenivas Nukala",
+    "email": "nukalasr@gmail.com",
+    "url": ""
+  },
+  "_id": "node-red-node-oauth2@0.0.1",
+  "directories": {}
+}
